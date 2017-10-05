@@ -1,1 +1,1 @@
-# intel-edison-relay
+# IntelEdisonRelay
